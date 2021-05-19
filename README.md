@@ -1,71 +1,20 @@
-# Getting Started with Create React App
+# Rick and Morty
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website of an animated series that follows the exploits of a super scientist and his not so bright grandson
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# rick-and-morty
+Hi, Here is your coding challenge. We expect you to develop a React Application using the API you can access the details of at https://rickandmortyapi.com/. We will review your code and gonna schedule a live review session with you.- Create a github repository for your project and share It with us!
+- Do not use the helper libraries in the https://rickandmortyapi.com/documentation#javascript
+- Use rest API https://rickandmortyapi.com/documentation/#rest
+- Use create-react-app
+- Use material-ui https://material-ui.com/
+- Characters should be listed on the main page with their images and names
+- Use lazy loading or pagination for character listing page. 20 characters per page.
+- Clicking on the characters should go to the detail page, on this page there should be a list of the character's image, name, where it is from, and the last five section names where the character appears.
+-There should be a "back" button on the detail page, when clicked, it should send the user to the home page.
+- Write snapshot and unit tests
+- Use functional components Below lines are optional but will score bonus points;
+Deploy your to production netlify, heroku or etc..
+404 not found page
+Typescript You should complete your challenge in 2 days and share it with us. Good Luck!
