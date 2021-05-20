@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Palanquin+Dark&display=swap');
+.main-container {
+    background-color: #1a202c;
+    color: white;
+    font-family: 'Palanquin Dark', sans-serif;
+    min-height: 100vh;
+}
+
+.hero-section {
+    /* background-image: url(../../images/r&m.jpg); */
+    background-image: url(../../images/RickAndMorty.png);
+    min-height: 400px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    /* background-size: 100% 700px; */
+    max-width: 100%;
+    height: auto;
+}
